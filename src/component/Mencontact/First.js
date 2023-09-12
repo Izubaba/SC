@@ -45,8 +45,8 @@ function First() {
                                         <i className="far fa-map"></i>
                                     </div>
                                     <h5>Office Address</h5>
-                                    <p>380 St Kilda Road, Melbourne <br />
-                                        VIC 3004, Australia</p>
+                                    <p>Plot 178 Lola Holloway street, Omole Phase 1 <br />
+                                        Ojodu-Berger Lagos, Nigeria</p>
                                 </div>
                                 <div className="single-cta pb-30 mb-30 wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
                                     <div className="f-cta-icon">
