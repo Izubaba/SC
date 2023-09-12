@@ -13,7 +13,7 @@ function Newsletter() {
                                 <h2>
                                     Get Best Offers On The Hotel
                                 </h2>
-                                <p>With the subscription, enjoy your favourite Hotels without having to think about it</p>
+                                <p>With the subscription, enjoy your favourite deals and offers with Square Castle Hotel without having to think about it</p>
                             </div>
                             <form name="ajax-form" id="contact-form4" action="#" method="post" className="contact-form newslater">
                                <div className="form-group">
