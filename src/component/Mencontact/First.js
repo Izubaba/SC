@@ -53,8 +53,8 @@ function First() {
                                         <i className="far fa-clock"></i>
                                     </div>
                                     <h5>Working Hours</h5>
-                                    <p>Monday to Friday 09:00 to 18:30 <br />
-                                        Saturday 15:30</p>
+                                    <p>Monday to Sunday<br />
+                                        24Hours Daily</p>
                                 </div>
                                 <div className="single-cta wow fadeInUp animated" data-animation="fadeInDown animated" data-delay=".2s">
                                     <div className="f-cta-icon">
