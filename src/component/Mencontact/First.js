@@ -60,7 +60,7 @@ function First() {
                                     <div className="f-cta-icon">
                                         <i className="far fa-envelope-open"></i>
                                     </div>
-                                    <h5>Message Us</h5>
+                                    <h5>Email Us</h5>
                                     <p> <Link to="#">support@example.com</Link><br /><Link to="#">info@example.com</Link></p>
                                 </div>
                             </div>
