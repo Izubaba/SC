@@ -28,7 +28,7 @@ const Main = () => {
                                     <ul>
                                         <li>
                                             <i className="far fa-clock"></i>
-                                            <span>Mon - Fri: 9:00 - 19:00/ Closed on Weekends</span>
+                                            <span>Mon - Fri: 24 Hours Daily/ Open on Weekends</span>
                                         </li>
                                         <li>
                                             <i className="far fa-mobile"></i>
