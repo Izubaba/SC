@@ -32,7 +32,7 @@ const Main = () => {
                                         </li>
                                         <li>
                                             <i className="far fa-mobile"></i>
-                                            <strong>+91 705 210-1786</strong>
+                                            <strong>+234 701 111-1111</strong>
                                         </li>
                                     </ul>
                                 </div>
