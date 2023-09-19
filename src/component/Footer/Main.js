@@ -89,7 +89,7 @@ const Main = () => {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-6">                         
-                           Copyright &copy; Riorelax 2022 . All rights reserved.         
+                           Copyright &copy; IzuBaba 2023 . All rights reserved.         
                         </div>
                         <div className="col-lg-6 col-md-6 text-right text-xl-right">                       
                            <div className="footer-social">                                    
