@@ -18,18 +18,18 @@ const Main = () => {
                                     <ul>
                                         <li>
                                             <i className="icon fal fa-phone"></i>
-                                            <span>1800-121-3637<br/>+91-7052-101-786</span>
+                                            <span>+234 0800 000 0000<br/>+234 0800 000 0000</span>
                                         </li>
                                         <li>
                                             <i className="icon fal fa-envelope"></i>
                                             <span>
-                                                <Link to="#">info@example.com</Link><br/>
-                                                <Link to="#">help@example.com</Link>
+                                                <Link to="#">info@sc.com</Link><br/>
+                                                <Link to="#">help@sc.com</Link>
                                             </span>
                                         </li>
                                         <li>
                                             <i className="icon fal fa-map-marker-check"></i>
-                                            <span>1247/Plot No. 39, 15th Phase,<br/> LHB Colony, Kanpur</span>
+                                            <span>Plot 178 Lola Holloway street, Omole Phase 1,<br/> Ojodu-Berger Lagos, Nigeria</span>
                                         </li>
                                     </ul>
                                 </div>
