@@ -24,9 +24,9 @@ function Most() {
                             <div className="about-content s-about-content  wow fadeInRight  animated pl-30" data-animation="fadeInRight" data-delay=".4s">
                                 <div className="about-title second-title pb-25">  
                                     <h5>About Us</h5>
-                                    <h2>Most Safe & Rated Hotel In London.</h2>                                   
+                                    <h2>Most Safe & Rated Hotel In Lagos.</h2>                                   
                                 </div>
-                                   <p>Morbi tortor urna, placerat vel arcu quis, fringilla egestas neque. Morbi sit amet porta erat, quis rutrum risus. Vivamus et gravida nibh, quis posuere felis. In commodo mi lectus, Integer ligula lorem, finibus vitae lorem vitae tincidunt dolor consequat quis.</p>
+                                   <p>Seated in the heart of Omole Estate lies our Facility. Omole Estate is one of the safest locations in the city of Lagos with a straight shot drive to the international airport and necessary amenities and fun spots within reach.</p>
                                     <p>Cras finibus laoreet felis et hendrerit. Integer ligula lorem, finibus vitae lorem at, egestas consectetur urna. Integer id ultricies elit. Maecenas sodales nibh, quis posuere felis. In commodo mi lectus venenatis metus eget fringilla. Suspendisse varius ante eget lorem tempus blandit. Aenean eu vulputate lorem, quis auctor lectus.</p>
                                     <div className="about-content3 mt-30">
                                     <div className="row justify-content-center align-items-center">
