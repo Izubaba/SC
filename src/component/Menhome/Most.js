@@ -27,7 +27,7 @@ function Most() {
                                     <h2>Most Safe & Rated Hotel In Lagos.</h2>                                   
                                 </div>
                                    <p>Seated in the heart of Omole Estate lies our Facility. Omole Estate is one of the safest locations in the city of Lagos with a straight shot drive to the international airport and necessary amenities and fun spots within reach.</p>
-                                    <p>Cras finibus laoreet felis et hendrerit. Integer ligula lorem, finibus vitae lorem at, egestas consectetur urna. Integer id ultricies elit. Maecenas sodales nibh, quis posuere felis. In commodo mi lectus venenatis metus eget fringilla. Suspendisse varius ante eget lorem tempus blandit. Aenean eu vulputate lorem, quis auctor lectus.</p>
+                                    <p>The hotel has amazingly private facilities not common to most hotels within reach. At Square Castle you can enjoy our amazing restaurant delicacies, go for a swim in our pool, take a breather and relax at the spa, and have fun at our unique underground lounge.</p>
                                     <div className="about-content3 mt-30">
                                     <div className="row justify-content-center align-items-center">
                                     <div className="col-md-12">
