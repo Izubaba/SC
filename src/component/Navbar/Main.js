@@ -56,7 +56,7 @@ const Main = () => {
                             <div className="row align-items-center">
                                 <div className="col-xl-2 col-lg-2">
                                     <div className="logo">
-                                        <Link to="/"><img src="assets/img/logo/SC_logo.jpg" alt="logo" /></Link>
+                                        <Link to="/"><img src="assets/img/logo/SC_logo1.jpg" alt="logo" /></Link>
                                     </div>
                                 </div>
                                 <div className="col-xl-8 col-lg-8">
