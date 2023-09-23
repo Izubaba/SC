@@ -75,7 +75,7 @@ function Sliderhome() {
                                     <div className="col-lg-7 col-md-7">
                                         <div className="slider-content s-slider-content mt-80 text-center">
                                             <h2 data-animation="fadeInUp" data-delay=".4s" style={{ animationDelay: "0.4s" }}>Enjoy A Luxuary Experience</h2>
-                                            <p data-animation="fadeInUp" data-delay=".6s">Donec vitae libero non enim placerat eleifend aliquam erat volutpat. Curabitur diam ex, dapibus purus sapien, cursus sed nisl tristique, commodo gravida lectus non.</p>
+                                            <p data-animation="fadeInUp" data-delay=".6s">Enjoy Luxury at its Best!</p>
 
                                             <div className="slider-btn mt-30 mb-105">
                                                 <Link to="/contact" className="btn ss-btn active mr-15" data-animation="fadeInLeft" data-delay=".4s">Discover More </Link>
