@@ -18,7 +18,7 @@ const Main = () => {
                                     <ul>
                                         <li>
                                             <i className="icon fal fa-phone"></i>
-                                            <span>+234 0800 000 0000<br/>+234 0800 000 0000</span>
+                                            <span>+234 0811 000 0000<br/>+234 0811 000 0000</span>
                                         </li>
                                         <li>
                                             <i className="icon fal fa-envelope"></i>
